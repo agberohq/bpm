@@ -1,2 +1,5 @@
 .idea
+.DS_Store
 _*
+coverage.out
+/bpm
